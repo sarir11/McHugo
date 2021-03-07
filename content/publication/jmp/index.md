@@ -1,5 +1,5 @@
 ---
-title: "Fun Title: This is my actual title"
+title: "Granular Gravity: Equity-Bond Returns and Correlation"
 authors:
 - " "
 date: "2020-10-01"
@@ -18,7 +18,7 @@ date: "2020-10-01"
 publication: "Job Market Paper"
 #publication_short: "Working Paper"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+abstract: I find strong empirical evidence that the correlation between firms bond and equity returns increases significantly when the distribution of firms in the economy becomes more granular than atomistic. Data supports the hypothesis that this arises from granularity being a priced factor in the cross-sections of both equity and bond returns. I construct a theoretical framework in which risk inherent in very large firms grows systematic. This granular channel brings about two predictions validated by the data: First, bond and equity returns co-move in the same direction with respect to granularity shocks. Second, this co-movement is due to a mutually and similarly priced factor in the cross section of equity and bond returns.
 
 
 # Summary. An optional shortened abstract.
