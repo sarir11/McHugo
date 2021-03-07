@@ -7,14 +7,14 @@ light = true
 # Primary
 primary = "#003C71"
 
-menu_primary="rgb(211,211,211)"#McGrey 20%
+menu_primary="rgb(192,192,192)"#McGrey 20%
 menu_text = "#003C71"
 menu_text_active = "rgb(255, 255, 255)"#mcgill red
 menu_title ="#003C71"#Crimson"rgb(46.5,51.5,56)"
 
 
 home_section_odd = "rgb(255, 255, 255)"
-home_section_even ="rgb(211,211,211)"#McGrey 20%
+home_section_even ="rgb(192,192,192)"#McGrey 20%
 #"rgb(190.2,194.2,198.2)"
 #"rgb(157.8,163.8,169.8)"
 #"rgb(125.4,133.4,141.4)"
