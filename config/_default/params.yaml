@@ -14,13 +14,13 @@ day_night: false
 
 # Font style.
 #   Choose from `default`, `classic`, `rose`, or `mr_robot`.
-font: ''
+font: 'mr_robot'
 font_size: L
 
 ### SEO ###
 site_type: Person
 local_business_type: ''
-org_name: 'Ali Abolghasemi'
+org_name: 'ALI ABOLGHASEMI'
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description: 'I am a Finance Ph.D. Candidate at HEC Montréal. My research interests include Asset Pricing, Granularity, and Corporate Bond Market'
@@ -31,7 +31,7 @@ twitter: 'AliAbolqasemi'
 # Diplay a logo or initials in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
 logo: ""
-initials: "AA"
+initials: "A A"
 
 
 # # Contact (edit or remove options as required)
