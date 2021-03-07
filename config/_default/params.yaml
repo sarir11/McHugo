@@ -9,7 +9,7 @@ links_title: false
 links_authors: false
 
 # Appearance
-theme: default
+theme: minimal
 day_night: false
 
 # Font style.
