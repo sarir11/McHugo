@@ -6,10 +6,10 @@ authors:
 
 email: ""
 
-interests:
-- Asset pricing
-- Granularity
-- Corporate Bond Market
+#interests:
+#- Asset pricing
+#- Granularity
+#- Corporate Bond Market
 
 name: Ali Abolghasemi
 
@@ -45,3 +45,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
+My research interests include Asset Pricing, Granularity, and Corporate Bond Market
