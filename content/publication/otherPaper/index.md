@@ -29,8 +29,8 @@ links:
 links:
 - #icon: ssrn
   #icon_pack: icon
-  name: SSRN
-  url: https://ssrn.com/abstract=1234567
+#  name: SSRN
+#  url: https://ssrn.com/abstract=1234567
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
