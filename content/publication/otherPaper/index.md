@@ -25,9 +25,9 @@ abstract: "This paper revisits the properties of the conditional CAPM when the e
 #- Source Themes
 #featured: false
 
-links:
-links:
-- #icon: ssrn
+#links:
+#links:
+#- #icon: ssrn
   #icon_pack: icon
 #  name: SSRN
 #  url: https://ssrn.com/abstract=1234567
