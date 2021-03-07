@@ -33,7 +33,7 @@ links:
   #url: https://ssrn.com/abstract=3440147
 #- name: Interactive Plots
 #  url: https://evan.shinyapps.io/supply_demand_sml/
-url_pdf: files/John_Doe_JMP.pdf
+url_pdf: files/JMP.pdf
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
