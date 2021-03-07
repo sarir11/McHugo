@@ -27,7 +27,7 @@ social:
   link: https://www.linkedin.com/in/ali-abolqasemi/
 - icon: cv-square
   icon_pack: ai
-  link: files/John_Doe_CV.pdf
+  link: files/CV.pdf
 - icon: envelope-square
   icon_pack: fas
   link: 'mailto:ali.abolghasemi@hec.ca'
