@@ -2,7 +2,7 @@
 name = "Default"
 
 # Is theme light or dark?
-light = true
+light = false
 
 # Primary
 #primary = "#2962ff"
@@ -11,7 +11,7 @@ primary = "#003C71"
 # Menu
 menu_primary = "#fff"
 menu_text = "#34495e"
-menu_text_active = "#2962ff"
+menu_text_active = "#003C71"
 menu_title = "#2b2b2b"
 
 # Home sections
