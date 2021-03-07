@@ -45,4 +45,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-My research interests include Asset Pricing, Granularity, and Corporate Bond Market
+My interests include Asset Pricing, Granularity, and Corporate Bond Market
