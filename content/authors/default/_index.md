@@ -11,7 +11,7 @@ interests:
 - Granularity
 - Corporate Bond Market
 
-name: ALI ABOLGHASEMI
+name: Ali Abolghasemi
 
 role: Ph.D. Candidate in Finance
 
