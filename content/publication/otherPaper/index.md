@@ -1,8 +1,8 @@
 ---
-title: "Another Amazing Article"
-authors:
-- with Jane Doe
-date: "2020-09-29"
+title: "Equity Prices in a Granular Economy"
+authors:  
+- with Harjoat Bhamra, Christian Dorion, and Alexandre Jeanneret
+date: "2020-01-01"
 #doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -18,7 +18,7 @@ date: "2020-09-29"
 publication: "Working Paper"
 #publication_short: "Working Paper"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+abstract: "This paper revisits the properties of the conditional CAPM when the economy is granular. When some firms are more like ’grains’ than atoms, shocks to such firms are not diversified away. When a large firm becomes larger, the economy becomes more granular, as the large firm represents a greater share of the market. This increase in granularity translates into a higher cross-sectional difference in equity betas, which reduces the slope of the Security Market Line (SML). We provide empirical support for the negative relation between the slope of the SML and various granularity measures from the U.S. equity market. When granularity decreases, portfolio betas are strongly and positively related to average equity returns. In contrast, the relation turns negative when granularity increases, thereby explaining the relatively ’flat’ SML observed unconditionally."
 
 # Summary. An optional shortened abstract.
 #tags:
