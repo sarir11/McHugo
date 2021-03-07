@@ -14,7 +14,7 @@ day_night: false
 
 # Font style.
 #   Choose from `default`, `classic`, `rose`, or `mr_robot`.
-font: 'dafault'
+font: 'default'
 font_size: L
 
 ### SEO ###
