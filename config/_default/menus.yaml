@@ -6,7 +6,7 @@
 main:
   - name: Research
     url: '#research'
-    weight: 30
+    weight: 10
   - name: CV
     url: 'files/CV.pdf'
     weight: 20
