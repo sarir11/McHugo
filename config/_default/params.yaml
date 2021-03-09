@@ -9,7 +9,7 @@ links_title: false
 links_authors: false
 
 # Appearance
-theme: mcminimal
+theme: default
 day_night: false
 
 # Font style.
